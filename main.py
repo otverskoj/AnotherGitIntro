@@ -1,6 +1,6 @@
 # Oleg Tverskoi
 def my_super_function():
-    print('What an awesome print!')
+    print('Another awesome print!')
 
 
 def main():
